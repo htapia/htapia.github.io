@@ -1,5 +1,7 @@
-# Hola world
+= Hola world
 
 $eˆ{i\pi}$
+
+latexmath:[eˆ{i\pi}] 
 
 Yo creo que no sirve...
