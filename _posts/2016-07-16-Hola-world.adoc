@@ -4,4 +4,6 @@ $eˆ{i\pi}$
 
 latexmath:[eˆ{i\pi}] 
 
+latexmath:[C = \alpha + \beta Y^{\gamma} + \epsilon]
+
 Yo creo que no sirve...
