@@ -1,7 +1,17 @@
 = Data Challenge Industrial 4.0
 
-<href="https://htapia.github.io/TallerPythonIntroCienciaDatos/">Taller de Python</href>
 
+== Reto DCI 4.0
+
+[square]
+. http://asciidoc.org[AsciiDoc]
+. second
+
+
+== Taller de Python
+
+[square]
+* Taller de Python[https://htapia.github.io/TallerPythonIntroCienciaDatos/]
 
 <href="https://htapia.github.io/RetoDCI4/Reto-DCI">RETO DCI 4</href>
 
