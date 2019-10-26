@@ -1,9 +1,9 @@
-= Hola world
+= Data Challenge Industrial 4.0
 
-$eˆ{i\pi}$
+<href="https://htapia.github.io/TallerPythonIntroCienciaDatos/">Taller de Python</href>
 
-latexmath:[eˆ{i\pi}] 
 
-latexmath:[C = \alpha + \beta Y^{\gamma} + \epsilon]
+<href="https://htapia.github.io/RetoDCI4/Reto-DCI">RETO DCI 4</href>
+
 
 Yo creo que no sirve...
