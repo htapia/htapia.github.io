@@ -1,12 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://htapia.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 19 Oct 2016 12:14:48 GMT</lastBuildDate><atom:link href="https://htapia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hola world]]></title><description><![CDATA[<div class="paragraph">
-<p>$eˆ{i\pi}$</p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://htapia.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 26 Oct 2019 16:54:06 GMT</lastBuildDate><atom:link href="https://htapia.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Data Challenge Industrial 4.0]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_reto_dci_4_0">Reto DCI 4.0</h2>
+<div class="sectionbody">
+<div class="olist square">
+<ol class="square">
+<li>
+<p><a href="http://asciidoc.org">AsciiDoc</a></p>
+</li>
+<li>
+<p>second</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_taller_de_python">Taller de Python</h2>
+<div class="sectionbody">
+<div class="ulist square">
+<ul class="square">
+<li>
+<p>Taller de Python[<a href="https://htapia.github.io/TallerPythonIntroCienciaDatos/" class="bare">https://htapia.github.io/TallerPythonIntroCienciaDatos/</a>]</p>
+</li>
+</ul>
 </div>
 <div class="paragraph">
-<p>\(eˆ{i\pi}\)</p>
-</div>
-<div class="paragraph">
-<p>\(C = \alpha + \beta Y^{\gamma} + \epsilon\)</p>
+<p>&lt;href="https://htapia.github.io/RetoDCI4/Reto-DCI"&gt;RETO DCI 4&lt;/href&gt;</p>
 </div>
 <div class="paragraph">
 <p>Yo creo que no sirve&#8230;&#8203;</p>
-</div>]]></description><link>https://htapia.github.io/2016/07/16/Hola-world.html</link><guid isPermaLink="true">https://htapia.github.io/2016/07/16/Hola-world.html</guid><dc:creator><![CDATA[Horacio Tapia-McClung]]></dc:creator><pubDate>Sat, 16 Jul 2016 00:00:00 GMT</pubDate></item></channel></rss>
+</div>
+</div>
+</div>]]></description><link>https://htapia.github.io/2016/07/16/Data-Challenge-Industrial-40.html</link><guid isPermaLink="true">https://htapia.github.io/2016/07/16/Data-Challenge-Industrial-40.html</guid><dc:creator><![CDATA[Horacio Tapia-McClung]]></dc:creator><pubDate>Sat, 16 Jul 2016 00:00:00 GMT</pubDate></item></channel></rss>
