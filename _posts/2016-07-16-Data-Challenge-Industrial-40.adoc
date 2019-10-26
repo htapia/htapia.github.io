@@ -4,16 +4,15 @@
 == Reto DCI 4.0
 
 [square]
-. http://asciidoc.org[AsciiDoc]
-. second
+* https://htapia.github.io/RetoDCI4/Reto-DCI4/[Introducción]
+
+[square]
+. https://htapia.github.io/RetoDCI4/Reto-DCI4/[Limpieza de Datos]
 
 
 == Taller de Python
 
 [square]
-* Taller de Python[https://htapia.github.io/TallerPythonIntroCienciaDatos/]
+* https://htapia.github.io/TallerPythonIntroCienciaDatos/[Taller de Python]
 
-<href="https://htapia.github.io/RetoDCI4/Reto-DCI">RETO DCI 4</href>
-
-
-Yo creo que no sirve...
+Suerte.
