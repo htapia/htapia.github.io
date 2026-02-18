@@ -32,6 +32,23 @@ Soy un investigador multidisciplinario en el Instituto de Investigaciones en Int
 Actualmente mi interés se centra en los modelos generativos de IA basados en difusión (como StableDiffusion, DALL-E), cuya base matemática fundamental describe también el movimiento Bronwniano y algunos aspectos de los mercados financieros, entre otros. 
 Adicionalmente, coordino proyectos de vinculación entre la academia y la industria con el objetivo de transferir el conocimiento desarrollado en nuestro trabajo para resolver problemas relevantes para el sector productivo de la sociedad. Si te gustaría conocer mas de nuestro trabajo no dudes en ponerte en contacto. 
 
+## Intereses
+
+- Modelos generativos de IA basados en difusión
+- Matrices aleatorias, probabilidad y analisis de datos en altas dimensiones
+- Física de los Sistemas Complejos
+- Interacciones y comportamiento en sistemas biológicos
+- Aplicaciones de ML e IA
+
+## Formación académica
+
+<i class="fa-sharp fa-thin fa-graduation-cap"></i> Doctorado en Ingeniería Mecánica
+<p>Universidad Nacional Autónoma de México</p>
+
+<i class="fa-sharp fa-thin fa-graduation-cap"></i> Maestría en Ciencias Aplicadas
+<p>University of California, Davis</p>
+
+
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/website/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
